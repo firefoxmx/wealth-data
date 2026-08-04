@@ -1,32 +1,32 @@
 Ticker,Size,P/L %,Last 24h,First buy,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,36.29%,+20%,N/A,N/A,,January 2024,0.0%,,
-AMD,12.79%,+183%,-1.90%,Jun-2025,,March 2024,19.3%,,
-ASML,11.52%,+121%,-0.40%,Feb-2025,,June 2024,20.2%,,
-RKLB,7.62%,+49%,0.42%,Feb-2025,,September 2024,6.3%,,
-Gold,5.21%,+57%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
-RDDT,5.04%,-18%,-20.99%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
-Cash,5.05%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
-META,7.75%,-9%,3.28%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
-TUNGF,0.97%,-40%,1.61%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
-NOW,4.43%,+5%,1.05%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
-GENI,2.76%,-24%,-0.72%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
-UCU,0.58%,-65%,-3.21%,Oct-2025,,, ,,
+World ETF,35.62%,+20%,N/A,N/A,,January 2024,0.0%,,
+AMD,12.78%,+188%,1.78%,Jun-2025,,March 2024,19.3%,,
+ASML,11.17%,+118%,-1.02%,Feb-2025,,June 2024,20.2%,,
+RKLB,8.11%,+61%,8.44%,Feb-2025,,September 2024,6.3%,,
+Gold,5.09%,+57%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
+RDDT,5.44%,-10%,9.98%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
+Cash,4.94%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
+META,8.07%,-3%,6.02%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
+TUNGF,1.00%,-37%,5.15%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
+NOW,4.46%,+8%,2.66%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
+GENI,2.76%,-22%,2.02%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
+UCU,0.57%,-65%,-3.21%,Oct-2025,,, ,,
 ,,,,,,,,,
-Today P/L (stocks only),,-1.9%,,,,,,,
+Today P/L (stocks only),,+3.7%,,,,,,,
 ,,,,,,,,,
-Stocks only AR (02/25),,+31.6%,,,,,,,
-Benchmark IWDA (02/25),,+14.6%,,,,,,,
+Stocks only AR (02/25),,+36.6%,,,,,,,
+Benchmark IWDA (02/25),,+16.3%,,,,,,,
 *AR - Absolute Return ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 Tracked since 29/07/2026,,,,,,,,,
-Cumulative alpha vs. IWDA,,+0.1%,,,,,,,
+Cumulative alpha vs. IWDA,,+2.3%,,,,,,,
 Max drawdown,,-1.9%,,,,,,,
-Current drawdown,,-1.9%,,,,,,,
+Current drawdown,,0.0%,,,,,,,
 Annualized volatility,,—,,,,,,,
 IWDA's annualized volatility,,—,,,,,,,
 The ratio,,—,,,,,,,
 Beta vs IWDA,,—,,,,,,,
 ,,,,,,,,,
 ,As of:,,,,,,,,
-,2026-08-03,,,,,,,,
+,2026-08-04,,,,,,,,
