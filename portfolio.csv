@@ -1,32 +1,32 @@
 Ticker,Size,P/L %,Last 24h,First buy,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,34.88%,+21%,N/A,N/A,,January 2024,0.0%,,
-AMD,12.43%,+188%,-6.21%,Jun-2025,,March 2024,19.3%,,
+World ETF,34.91%,+21%,N/A,N/A,,January 2024,0.0%,,
+AMD,12.32%,+186%,-7.04%,Jun-2025,,March 2024,19.3%,,
 ASML,11.22%,+126%,-0.46%,Feb-2025,,June 2024,20.2%,,
-RKLB,8.98%,+84%,1.13%,Feb-2025,,September 2024,6.3%,,
-Gold,5.16%,+64%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
-RDDT,5.28%,-10%,-3.14%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
+RKLB,8.92%,+82%,0.46%,Feb-2025,,September 2024,6.3%,,
+Gold,5.21%,+65%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
+RDDT,5.29%,-10%,-2.94%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
 Cash,4.81%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
-META,7.74%,-5%,-0.64%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
-TUNGF,1.00%,-35%,3.55%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
-NOW,4.42%,+10%,-1.11%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
-GENI,3.13%,-9%,2.41%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
-UCU,0.94%,-40%,0.58%,Oct-2025,,, ,,
+META,7.80%,-4%,0.14%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
+TUNGF,0.98%,-36%,1.31%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
+NOW,4.44%,+10%,-0.78%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
+GENI,3.15%,-8%,3.09%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
+UCU,0.93%,-41%,-0.29%,Oct-2025,,, ,,
 ,,,,,,,,,
-Today P/L (stocks only),,-1.6%,,,,,,,
+Today P/L (stocks only),,-1.7%,,,,,,,
 ,,,,,,,,,
-Stocks only AR (02/25),,+42.5%,,,,,,,
+Stocks only AR (02/25),,+42.2%,,,,,,,
 Benchmark IWDA (02/25),,+18.3%,,,,,,,
 *AR - Absolute Return ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 Tracked since 29/07/2026,,,,,,,,,
-Cumulative alpha vs. IWDA,,+6.1%,,,,,,,
+Cumulative alpha vs. IWDA,,+3.9%,,,,,,,
 Max drawdown,,-1.9%,,,,,,,
-Current drawdown,,0.0%,,,,,,,
+Current drawdown,,-1.7%,,,,,,,
 Annualized volatility,,—,,,,,,,
 IWDA's annualized volatility,,—,,,,,,,
 The ratio,,—,,,,,,,
 Beta vs IWDA,,—,,,,,,,
 ,,,,,,,,,
 ,As of:,,,,,,,,
-,2026-08-05,,,,,,,,
+,2026-08-06,,,,,,,,
