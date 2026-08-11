@@ -1,32 +1,32 @@
 Ticker,Size,P/L %,Last 24h,First buy,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,35.11%,+24%,N/A,N/A,,January 2024,0.0%,,
-AMD,11.93%,+182%,-1.70%,Jun-2025,,March 2024,19.3%,,
-ASML,11.37%,+133%,0.99%,Feb-2025,,June 2024,20.2%,,
-RKLB,9.48%,+98%,-2.27%,Feb-2025,,September 2024,6.3%,,
-Gold,5.20%,+68%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
-RDDT,5.31%,-8%,-1.87%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
-Cash,4.40%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
-META,7.73%,-3%,0.36%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
-TUNGF,1.12%,-25%,7.08%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
-NOW,4.74%,+20%,2.00%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
-GENI,2.79%,-17%,-1.38%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
-UCU,0.81%,-47%,-6.15%,Oct-2025,,, ,,
+World ETF,35.15%,+24%,N/A,N/A,,January 2024,0.0%,,
+AMD,11.80%,+179%,-2.86%,Jun-2025,,March 2024,19.3%,,
+ASML,11.39%,+133%,0.99%,Feb-2025,,June 2024,20.2%,,
+RKLB,9.39%,+95%,-3.37%,Feb-2025,,September 2024,6.3%,,
+Gold,5.30%,+71%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
+RDDT,5.32%,-7%,-1.84%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
+Cash,4.41%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
+META,7.76%,-3%,0.48%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
+TUNGF,1.14%,-25%,7.96%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
+NOW,4.75%,+20%,2.05%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
+GENI,2.82%,-17%,-0.40%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
+UCU,0.79%,-49%,-9.23%,Oct-2025,,, ,,
 ,,,,,,,,,
-Today P/L (stocks only),,-0.5%,,,,,,,
+Today P/L (stocks only),,-0.9%,,,,,,,
 ,,,,,,,,,
-Stocks only AR (02/25),,+45.5%,,,,,,,
+Stocks only AR (02/25),,+44.9%,,,,,,,
 Benchmark IWDA (02/25),,+18.7%,,,,,,,
 *AR - Absolute Return ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 Tracked since 29/07/2026,,,,,,,,,
-Cumulative alpha vs. IWDA,,+6.7%,,,,,,,
+Cumulative alpha vs. IWDA,,+5.7%,,,,,,,
 Max drawdown,,-1.9%,,,,,,,
-Current drawdown,,0.0%,,,,,,,
+Current drawdown,,-0.9%,,,,,,,
 Annualized volatility,,—,,,,,,,
 IWDA's annualized volatility,,—,,,,,,,
 The ratio,,—,,,,,,,
 Beta vs IWDA,,—,,,,,,,
 ,,,,,,,,,
 ,As of:,,,,,,,,
-,2026-08-10,,,,,,,,
+,2026-08-11,,,,,,,,
