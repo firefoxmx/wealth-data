@@ -1,21 +1,21 @@
 Ticker,Size,P/L %,Last 24h,First buy,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,#N/A,N/A,N/A,N/A,,January 2024,0.0%,,
-AMD,#N/A,N/A,#N/A,Jun-2025,,March 2024,19.3%,,
-ASML,#N/A,N/A,#N/A,Feb-2025,,June 2024,20.2%,,
-RKLB,#N/A,N/A,#N/A,Feb-2025,,September 2024,6.3%,,
-Gold,#N/A,+69%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
-RDDT,#N/A,N/A,#N/A,Feb-2025,,March 2025,0.4%,48.3%,57.9%
-Cash,#N/A,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
-META,#N/A,N/A,#N/A,Apr-2026,,September 2025,16.2%,63.9%,68.8%
-TUNGF,#N/A,N/A,#N/A,Oct-2025,,December 2025,12.9%,60.1%,68.0%
-NOW,#N/A,N/A,#N/A,Jun-2026,,March 2026,6.1%,69.3%,62.8%
-GENI,#N/A,N/A,#N/A,Jul-2025,,June 2026,17.7%,63.8%,65.5%
-UCU,#N/A,N/A,#N/A,Oct-2025,,, ,,
+World ETF,34.99%,+24%,N/A,N/A,,January 2024,0.0%,,
+AMD,12.10%,+187%,2.10%,Jun-2025,,March 2024,19.3%,,
+ASML,11.83%,+143%,1.74%,Feb-2025,,June 2024,20.2%,,
+RKLB,9.35%,+96%,0.27%,Feb-2025,,September 2024,6.3%,,
+Gold,5.26%,+70%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
+RDDT,5.07%,-11%,-2.50%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
+Cash,4.38%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
+META,7.66%,-3%,-1.33%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
+TUNGF,1.19%,-20%,0.00%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
+NOW,4.54%,+15%,-3.74%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
+GENI,2.81%,-17%,-2.57%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
+UCU,0.82%,-46%,-3.13%,Oct-2025,,, ,,
 ,,,,,,,,,
-Today P/L (stocks only),,#REF!,,,,,,,
+Today P/L (stocks only),,-0.0%,,,,,,,
 ,,,,,,,,,
-Stocks only AR (02/25),,#N/A,,,,,,,
-Benchmark IWDA (02/25),,#N/A,,,,,,,
+Stocks only AR (02/25),,+46.3%,,,,,,,
+Benchmark IWDA (02/25),,+18.8%,,,,,,,
 *AR - Absolute Return ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
