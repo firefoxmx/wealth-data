@@ -1,32 +1,32 @@
 Ticker,Size,P/L %,Last 24h,First buy,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,35.79%,+24%,N/A,N/A,,January 2024,0.0%,,
-AMD,11.92%,+180%,4.37%,Jun-2025,,March 2024,19.3%,,
-ASML,11.36%,+131%,0.75%,Feb-2025,,June 2024,20.2%,,
-RKLB,7.87%,+63%,-1.25%,Feb-2025,,September 2024,6.3%,,
-Gold,5.52%,+77%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
-RDDT,5.34%,-8%,4.85%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
-Cash,5.32%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
-META,7.33%,-9%,1.15%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
-TUNGF,1.15%,-24%,1.06%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
-NOW,4.70%,+18%,-0.93%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
-GENI,2.91%,-14%,-1.63%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
+World ETF,35.71%,+24%,N/A,N/A,,January 2024,0.0%,,
+AMD,11.96%,+181%,4.91%,Jun-2025,,March 2024,19.3%,,
+ASML,11.33%,+131%,0.75%,Feb-2025,,June 2024,20.2%,,
+RKLB,7.79%,+62%,-2.01%,Feb-2025,,September 2024,6.3%,,
+Gold,5.54%,+78%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
+RDDT,5.41%,-6%,6.39%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
+Cash,5.31%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
+META,7.38%,-8%,1.97%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
+TUNGF,1.14%,-25%,0.00%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
+NOW,4.70%,+18%,-0.82%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
+GENI,2.94%,-13%,-0.50%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
 UCU,0.80%,-48%,7.91%,Oct-2025,,, ,,
 ,,,,,,,,,
-Today P/L (stocks only),,+1.6%,,,,,,,
+Today P/L (stocks only),,+1.9%,,,,,,,
 ,,,,,,,,,
-Stocks only AR (02/25),,+39.5%,,,,,,,
+Stocks only AR (02/25),,+39.9%,,,,,,,
 Benchmark IWDA (02/25),,+16.7%,,,,,,,
 *AR - Absolute Return ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 Tracked since 29/07/2026,,,,,,,,,
-Cumulative alpha vs. IWDA,,+3.8%,,,,,,,
+Cumulative alpha vs. IWDA,,+5.5%,,,,,,,
 Max drawdown,,-8.0%,,,,,,,
-Current drawdown,,-8.0%,,,,,,,
-Annualized volatility,,—,,,,,,,
-IWDA's annualized volatility,,—,,,,,,,
-The ratio,,—,,,,,,,
+Current drawdown,,-6.3%,,,,,,,
+Annualized volatility,,38.1%,,,,,,,
+IWDA's annualized volatility,,9.9%,,,,,,,
+The ratio,,3.85x,,,,,,,
 Beta vs IWDA,,—,,,,,,,
 ,,,,,,,,,
 ,As of:,,,,,,,,
-,2026-08-25,,,,,,,,
+,2026-08-26,,,,,,,,
