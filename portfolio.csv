@@ -1,32 +1,32 @@
 Ticker,Size,P/L %,Last 24h,First buy,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,35.54%,+24%,N/A,N/A,,January 2024,0.0%,,
-AMD,11.80%,+179%,-0.99%,Jun-2025,,March 2024,19.3%,,
-ASML,11.23%,+130%,0.54%,Feb-2025,,June 2024,20.2%,,
-RKLB,7.47%,+56%,-5.29%,Feb-2025,,September 2024,6.3%,,
-Gold,5.41%,+75%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
-RDDT,5.15%,-10%,0.41%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
-Cash,5.28%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
-META,7.48%,-6%,0.97%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
-TUNGF,1.04%,-31%,-1.50%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
-NOW,5.34%,+35%,4.05%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
-GENI,3.56%,-7%,4.71%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
-UCU,0.71%,-54%,-7.64%,Oct-2025,,, ,,
+World ETF,35.68%,+24%,N/A,N/A,,January 2024,0.0%,,
+AMD,11.69%,+175%,-2.33%,Jun-2025,,March 2024,19.3%,,
+ASML,11.27%,+130%,0.54%,Feb-2025,,June 2024,20.2%,,
+RKLB,7.54%,+57%,-4.65%,Feb-2025,,September 2024,6.3%,,
+Gold,5.33%,+71%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
+RDDT,5.12%,-11%,-0.62%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
+Cash,5.30%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
+META,7.52%,-6%,1.21%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
+TUNGF,1.03%,-32%,-2.29%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
+NOW,5.38%,+36%,4.54%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
+GENI,3.43%,-11%,0.75%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
+UCU,0.72%,-54%,-6.94%,Oct-2025,,, ,,
 ,,,,,,,,,
-Today P/L (stocks only),,-0.1%,,,,,,,
+Today P/L (stocks only),,-0.6%,,,,,,,
 ,,,,,,,,,
-Stocks only AR (02/25),,+39.9%,,,,,,,
+Stocks only AR (02/25),,+39.2%,,,,,,,
 Benchmark IWDA (02/25),,+18.2%,,,,,,,
 *AR - Absolute Return ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 Tracked since 29/07/2026,,,,,,,,,
-Cumulative alpha vs. IWDA,,+5.0%,,,,,,,
+Cumulative alpha vs. IWDA,,+3.5%,,,,,,,
 Max drawdown,,-8.0%,,,,,,,
-Current drawdown,,-6.3%,,,,,,,
-Annualized volatility,,36.5%,,,,,,,
-IWDA's annualized volatility,,9.5%,,,,,,,
-The ratio,,3.85x,,,,,,,
+Current drawdown,,-6.8%,,,,,,,
+Annualized volatility,,35.7%,,,,,,,
+IWDA's annualized volatility,,9.6%,,,,,,,
+The ratio,,3.72x,,,,,,,
 Beta vs IWDA,,—,,,,,,,
 ,,,,,,,,,
 ,As of:,,,,,,,,
-,2026-08-28,,,,,,,,
+,2026-08-29,,,,,,,,
