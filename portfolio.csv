@@ -1,32 +1,32 @@
 Ticker,Size,P/L %,Last 24h,First buy,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,35.28%,+22%,N/A,N/A,,January 2024,0.0%,,
-AMD,12.68%,+199%,2.10%,Jun-2025,,March 2024,19.3%,,
+World ETF,35.30%,+22%,N/A,N/A,,January 2024,0.0%,,
+AMD,12.70%,+199%,2.19%,Jun-2025,,March 2024,19.3%,,
 ASML,10.39%,+112%,-0.65%,Feb-2025,,June 2024,20.2%,,
-RKLB,7.47%,+55%,1.69%,Feb-2025,,September 2024,6.3%,,
-Gold,5.13%,+65%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
-RDDT,5.40%,-6%,-0.95%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
-Cash,4.73%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
-META,8.69%,+9%,0.02%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
+RKLB,7.47%,+55%,1.60%,Feb-2025,,September 2024,6.3%,,
+Gold,5.15%,+66%,N/A,Jun-2024,,December 2024,15.6%,76.3%,76.3%
+RDDT,5.36%,-7%,-1.69%,Feb-2025,,March 2025,0.4%,48.3%,57.9%
+Cash,4.74%,N/A,N/A,N/A,,June 2025,21.6%,50.1%,66.7%
+META,8.75%,+10%,0.70%,Apr-2026,,September 2025,16.2%,63.9%,68.8%
 TUNGF,1.35%,-10%,-2.68%,Oct-2025,,December 2025,12.9%,60.1%,68.0%
-NOW,5.41%,+37%,1.89%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
-GENI,2.80%,-27%,-4.12%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
-UCU,0.67%,-57%,-3.86%,Oct-2025,,, ,,
+NOW,5.30%,+34%,-0.32%,Jun-2026,,March 2026,6.1%,69.3%,62.8%
+GENI,2.82%,-27%,-3.53%,Jul-2025,,June 2026,17.7%,63.8%,65.5%
+UCU,0.68%,-56%,-2.70%,Oct-2025,,, ,,
 ,,,,,,,,,
-Today P/L (stocks only),,+0.4%,,,,,,,
+Today P/L (stocks only),,+0.2%,,,,,,,
 ,,,,,,,,,
-Stocks only AR (02/25),,+42.3%,,,,,,,
+Stocks only AR (02/25),,+42.1%,,,,,,,
 Benchmark IWDA (02/25),,+16.0%,,,,,,,
 *AR - Absolute Return ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
 Tracked since 29/07/2026,,,,,,,,,
-Cumulative alpha vs. IWDA,,+8.4%,,,,,,,
+Cumulative alpha vs. IWDA,,+9.2%,,,,,,,
 Max drawdown,,-9.3%,,,,,,,
-Current drawdown,,-3.8%,,,,,,,
-Annualized volatility,,31.1%,,,,,,,
+Current drawdown,,-3.5%,,,,,,,
+Annualized volatility,,30.6%,,,,,,,
 IWDA's annualized volatility,,9.7%,,,,,,,
-The ratio,,3.19x,,,,,,,
+The ratio,,3.16x,,,,,,,
 Beta vs IWDA,,—,,,,,,,
 ,,,,,,,,,
 ,As of:,,,,,,,,
-,2026-09-15,,,,,,,,
+,2026-09-16,,,,,,,,
