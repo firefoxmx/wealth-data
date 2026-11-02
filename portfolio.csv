@@ -1,18 +1,18 @@
 Ticker,Size,P/L %,Last 24h,First buy,Sector,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,39.27%,+23%,N/A,N/A,N/A,,January 2024,0.0%,,
-AMD,9.74%,+210%,-10.88%,Jun-2025,semis & AI infrastructure,,March 2024,19.3%,,
-ASML,10.65%,+117%,-6.11%,Feb-2025,semis & AI infrastructure,,June 2024,20.2%,,
-RKLB,7.39%,+30%,-7.39%,Feb-2025,space & defense,,September 2024,6.3%,,
-Gold,4.81%,+55%,N/A,Jun-2024,N/A,,December 2024,15.6%,76.3%,76.3%
-Cash,15.93%,N/A,N/A,N/A,N/A,,March 2025,0.4%,48.3%,57.9%
-META,8.30%,+2%,-1.53%,Apr-2026,social media,,June 2025,21.6%,50.1%,66.7%
-GENI,3.07%,-25%,-1.55%,Jul-2025,sports data & betting,,September 2025,16.2%,63.9%,68.8%
-UCU,0.85%,-55%,4.08%,Oct-2025,critical minerals,,December 2025,12.9%,60.1%,68.0%
+World ETF,39.29%,+23%,N/A,N/A,N/A,,January 2024,0.0%,,
+AMD,9.72%,+209%,-10.88%,Jun-2025,semis & AI infrastructure,,March 2024,19.3%,,
+ASML,10.65%,+117%,0.00%,Feb-2025,semis & AI infrastructure,,June 2024,20.2%,,
+RKLB,7.37%,+30%,-7.39%,Feb-2025,space & defense,,September 2024,6.3%,,
+Gold,4.84%,+56%,N/A,Jun-2024,N/A,,December 2024,15.6%,76.3%,76.3%
+Cash,15.94%,N/A,N/A,N/A,N/A,,March 2025,0.4%,48.3%,57.9%
+META,8.29%,+1%,-1.53%,Apr-2026,social media,,June 2025,21.6%,50.1%,66.7%
+GENI,3.06%,-25%,-1.55%,Jul-2025,sports data & betting,,September 2025,16.2%,63.9%,68.8%
+UCU,0.84%,-55%,4.08%,Oct-2025,critical minerals,,December 2025,12.9%,60.1%,68.0%
 ,,,,,,,March 2026,6.1%,69.3%,62.8%
 ,,,,,,,June 2026,17.7%,63.8%,65.5%
 ,,,,,,,September 2026,5.0%,48.0%,60.9%
 ,,,,,,,,,,
-Today P/L (stocks only),,-6.1%,,,,,,,,
+Today P/L (stocks only),,-4.6%,,,,,,,,
 ,,,,,,,,,,
 Tracked since 29/07/2026,,,,,,,,,,
 C. alpha vs. Benchmark,,+0.6%,,,,,,,,
@@ -24,4 +24,4 @@ The ratio,,3.41x,,,,,,,,
 Beta vs Benchmark,,2.25,,,,,,,,
 ,,,,,,,,,,
 ,As of:,,,,,,,,,
-,2026-11-01,,,,,,,,,
+,2026-11-02,,,,,,,,,
