@@ -1,30 +1,30 @@
 Ticker,Size,P/L %,Last 24h,First buy,Sector,,Period/Quarter,QoQ %,YoY %,CAGR
-World ETF,40.78%,+22%,N/A,N/A,N/A,,January 2024,0.0%,,
-AMD,8.47%,+156%,-14.11%,Jun-2025,semis & AI infrastructure,,March 2024,19.3%,,
-ASML,9.91%,+92%,-6.55%,Feb-2025,semis & AI infrastructure,,June 2024,20.2%,,
-RKLB,7.55%,+8%,-10.72%,Feb-2025,space & defense,,September 2024,6.3%,,
-Gold,5.33%,+63%,N/A,Jun-2024,N/A,,December 2024,15.6%,76.3%,76.3%
-Cash,10.19%,N/A,N/A,N/A,N/A,,March 2025,0.4%,48.3%,57.9%
-META,9.81%,-0%,-3.57%,Apr-2026,social media,,June 2025,21.6%,50.1%,66.7%
-GENI,2.94%,-32%,-16.95%,Jul-2025,sports data & betting,,September 2025,16.2%,63.9%,68.8%
-ISRG,4.24%,+6%,-3.25%,Nov-2026,medical devices & technology,,December 2025,12.9%,60.1%,68.0%
-UCU,0.78%,-61%,-13.46%,Oct-2025,critical minerals,,March 2026,6.1%,69.3%,62.8%
+World ETF,40.92%,+22%,N/A,N/A,N/A,,January 2024,0.0%,,
+AMD,8.22%,+148%,-17.26%,Jun-2025,semis & AI infrastructure,,March 2024,19.3%,,
+ASML,9.94%,+92%,0.00%,Feb-2025,semis & AI infrastructure,,June 2024,20.2%,,
+RKLB,7.48%,+7%,-12.18%,Feb-2025,space & defense,,September 2024,6.3%,,
+Gold,5.29%,+61%,N/A,Jun-2024,N/A,,December 2024,15.6%,76.3%,76.3%
+Cash,10.00%,N/A,N/A,N/A,N/A,,March 2025,0.4%,48.3%,57.9%
+META,9.84%,-0%,-3.96%,Apr-2026,social media,,June 2025,21.6%,50.1%,66.7%
+GENI,3.25%,-29%,-15.55%,Jul-2025,sports data & betting,,September 2025,16.2%,63.9%,68.8%
+ISRG,4.29%,+7%,-2.82%,Nov-2026,medical devices & technology,,December 2025,12.9%,60.1%,68.0%
+UCU,0.78%,-61%,-13.94%,Oct-2025,critical minerals,,March 2026,6.1%,69.3%,62.8%
 ,,,,,,,June 2026,17.7%,63.8%,65.5%
 ,,,,,,,September 2026,5.0%,48.0%,60.9%
-Today P/L (whole portfolio),,-5.8%,,,,,,,,
-Today P/L (stocks only),,-8.8%,,,,,,,,
+Today P/L (whole portfolio),,-5.9%,,,,,,,,
+Today P/L (stocks only),,-8.4%,,,,,,,,
 ,,,,,,,,,,
 Stock sleeve vs URTH · since 29/07/2026,,,,,,,,,,
-C. alpha vs. Benchmark,,-1.4%,,,,,,,,
-Max drawdown,,-20.5%,,,,,,,,
-Current drawdown,,-19.1%,,,,,,,,
-Annualized volatility,,33.6%,,,,,,,,
-Benchmark annualized vol.,,10.3%,,,,,,,,
-The ratio,,3.27x,,,,,,,,
-Beta vs Benchmark,,2.02,,,,,,,,
+C. alpha vs. Benchmark,,-7.3%,,,,,,,,
+Max drawdown,,-27.0%,,,,,,,,
+Current drawdown,,-27.0%,,,,,,,,
+Annualized volatility,,38.0%,,,,,,,,
+Benchmark annualized vol.,,12.6%,,,,,,,,
+The ratio,,3.01x,,,,,,,,
+Beta vs Benchmark,,2.17,,,,,,,,
 Whole portfolio · since 03/11/2026,,,,,,,,,,
-Max drawdown,,0.0%,,,,,,,,
-Current drawdown,,0.0%,,,,,,,,
+Max drawdown,,-6.0%,,,,,,,,
+Current drawdown,,-6.0%,,,,,,,,
 ,,,,,,,,,,
 As of:,,,,,,,,,,
-2026-11-05,,,,,,,,,,
+2026-11-06,,,,,,,,,,
